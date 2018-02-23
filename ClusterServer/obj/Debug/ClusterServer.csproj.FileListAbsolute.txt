@@ -1,0 +1,11 @@
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\ClusterServer.exe.config
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\ClusterServer.exe
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\ClusterServer.pdb
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\FluentCommandLineParser.dll
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\log4net.dll
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\FluentCommandLineParser.pdb
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\FluentCommandLineParser.xml
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\bin\Debug\log4net.xml
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\obj\Debug\ClusterServer.csprojResolveAssemblyReference.cache
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\obj\Debug\ClusterServer.exe
+C:\Users\Асус\Downloads\parallelprogramming-shpora2018-e7b49b2643c5\parallelprogramming-shpora2018-e7b49b2643c5\ClusterServer\obj\Debug\ClusterServer.pdb
